@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dawid\source\repos\simpleFFmpegDecode\main.cpp(168,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  simpleFFmpegDecode.vcxproj -> C:\Users\dawid\source\repos\simpleFFmpegDecode\x64\Debug\simpleFFmpegDecode.exe
